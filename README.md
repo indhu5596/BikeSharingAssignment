@@ -3,8 +3,8 @@
 Here we have used Bike sharing dataset and performed Linear Regression to predict the target variable.
 
 ## Table of Contents
-General Info
-Technologies Used
+General Info<br>
+Technologies Used<br>
 Conclusions
 
 ### General Information
